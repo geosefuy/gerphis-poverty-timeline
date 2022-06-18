@@ -38,8 +38,8 @@ function TimelineContent() {
         </Accordion>
       </Group>
 
-      <Paper shadow="md" p="md" m={20}>
-        <Group position="apart">
+      <Paper shadow="md" p="xl" m={20}>
+        <Group position="apart" align="flex-start">
           <Stack>
             <Text>Location</Text>
             <Text>Social Class</Text>
