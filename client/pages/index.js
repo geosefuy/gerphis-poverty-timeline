@@ -1,4 +1,8 @@
+import { Accordion, Group, Image, Stack } from "@mantine/core";
 import { Chrono } from "react-chrono";
+import AccordionLabel from "../components/AccordionLabel";
+import EraNavBar from "../components/EraNavBar";
+import TimelineContent from "../components/TimelineContent";
 
 function Home() {
   const items = [
@@ -26,21 +30,16 @@ function Home() {
   ];
 
   return (
-    <div style={{ width: "100vw", height: "600px" }}>
+    <div style={{ width: "100vw" }}>
+      <EraNavBar></EraNavBar>
       <Chrono
         items={items}
         mode="HORIZONTAL"
         disableAutoScrollOnClick={true}
         hideControls={true}
+        borderLessCards={true}
       >
-        <div>
-          <img src="https://randomwordgenerator.com/img/picture-generator/50e9d4414851b10ff3d8992cc12c30771037dbf85254794e732873dc954f_640.jpg" />
-          <p>
-            Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum.
-            Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum.
-            Lorem Ipsum. Lorem Ipsum.{" "}
-          </p>
-        </div>
+        <TimelineContent></TimelineContent>
       </Chrono>
     </div>
   );
