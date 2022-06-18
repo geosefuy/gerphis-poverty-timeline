@@ -1,14 +1,4 @@
-import {
-  AppShell,
-  Navbar,
-  Header,
-  Aside,
-  Footer,
-  Group,
-  Text,
-  Center,
-  Button,
-} from "@mantine/core";
+import { AppShell, Header, Footer, Group, Text, Button } from "@mantine/core";
 import Link from "next/link";
 
 export const ApplicationContainer = ({ children }) => {
@@ -18,11 +8,10 @@ export const ApplicationContainer = ({ children }) => {
         main: {
           background: "#FFFFFF",
           width: "100vw",
-          height: "100vh",
           paddingLeft: "0px",
+          paddingTop: "70px",
         },
       }}
-      fixed
       footer={
         <Footer height={60} p="md">
           <Text size="sm">
@@ -31,8 +20,8 @@ export const ApplicationContainer = ({ children }) => {
         </Footer>
       }
       header={
-        <Header height={70} p="md">
-          <Group position="apart" spacing="xl">
+        <Header height={70} p="md" fixed>
+          <Group position="apart" spacing="xl" noWrap>
             <Text weight={"bolder"} size="xl">
               Poverty in the Philippines
             </Text>
