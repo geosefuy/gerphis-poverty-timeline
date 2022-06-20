@@ -48,18 +48,18 @@ function Home() {
               fit="contain"
               src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
             ></Image>
-            <Paper shadow="md" p="xl" m={20}>
+            <Paper shadow="md" p="xl" m={20} style={{width:"700px"}}>
               <Group position="apart" align="flex-start">
                 <Stack>
                   <Text>Location</Text>
-                  <Text>Social Class</Text>
                   <Text>Years</Text>
+                  <Text>Description</Text>
                 </Stack>
-                <Image
+                {/* <Image
                   width={360}
                   height={360}
                   src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
-                ></Image>
+                ></Image> */}
               </Group>
             </Paper>
           </Group>
