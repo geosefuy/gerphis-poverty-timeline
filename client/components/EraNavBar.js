@@ -1,23 +1,38 @@
 import { Button, Group } from "@mantine/core";
+import Link from "next/link";
 
-function EraNavBar () {
+function EraNavBar() {
     return (
         <Group position="center" my={20}>
-            <Button variant="subtle">
-                Dinosaur Era
-            </Button>
+            <Link href="/">
+                <Button component="a" variant="subtle">
+                    Pre-Colonial Era
+                </Button>
+            </Link>
 
-            <Button variant="subtle">
-                Spanish Era
-            </Button>
+            <Link href="/spanish">
+                <Button component="a" variant="subtle">
+                    Spanish Era
+                </Button>
+            </Link>
 
-            <Button variant="subtle">
-                Freedom Era
-            </Button>
+            <Link href="/american">
+                <Button component="a" variant="subtle">
+                    American Era
+                </Button></Link>
 
-            <Button variant="subtle">
-                Space Era
-            </Button>
+            <Link href="/japanese">
+                <Button component="a" variant="subtle">
+                    Japanese Era
+                </Button>
+            </Link>
+
+            <Link href="/contemporary">
+                <Button component="a" variant="subtle">
+                    Contemporary Era
+                </Button>
+            </Link>
+
         </Group>
     )
 }

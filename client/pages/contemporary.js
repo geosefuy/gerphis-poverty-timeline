@@ -4,7 +4,7 @@ import AccordionLabel from "../components/AccordionLabel";
 import EraNavBar from "../components/EraNavBar";
 import TimelineContent from "../components/TimelineContent";
 
-function Home() {
+function Contemporary() {
   const items = [
     {
       title: "1940",
@@ -144,4 +144,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Contemporary;
