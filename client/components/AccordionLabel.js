@@ -1,12 +1,10 @@
 import { Text } from "@mantine/core";
 
-function AccordionLabel({ label, description }) {
+function AccordionLabel({ location, description,social_class }) {
   return (
     <div>
-      <Text>Location</Text>
-      <Text>Social Class</Text>
-      <Text>Years</Text>
-      <Text>{label}</Text>
+      <Text>{location}</Text>
+      <Text>{social_class}</Text>
       <Text size="sm" color="dimmed" weight={400}>
         {description}
       </Text>
