@@ -7,9 +7,9 @@ export const ApplicationContainer = ({ children }) => {
       styles={{
         main: {
           width: "100vw",
-          paddingLeft: "0px",
+          padding: "0px",
           paddingTop: "70px",
-        }
+        },
       }}
       footer={
         <Footer height={60} p="md">
@@ -19,19 +19,48 @@ export const ApplicationContainer = ({ children }) => {
         </Footer>
       }
       header={
-        <Header height={70} p="md" fixed>
+        <Header
+          height={70}
+          p="md"
+          fixed
+          sx={(theme) => ({
+            backgroundColor: theme.colors.indigo,
+          })}
+        >
           <Group position="apart" spacing="xl" noWrap>
-            <Text weight={"bolder"} size="xl">
+            <Text weight={"bolder"} size="xl" color="white">
               Poverty in the Philippines
             </Text>
             <Group>
               <Link href="/">
-                <Button component="a" variant="subtle">
+                <Button
+                  component="a"
+                  variant="subtle"
+                  styles={(theme) => ({
+                    subtle: {
+                      color: "white",
+                      "&:hover": {
+                        color: theme.colors.indigo,
+                      },
+                    },
+                  })}
+                >
                   Home
                 </Button>
               </Link>
               <Link href="/about">
-                <Button component="a" variant="subtle">
+                <Button
+                  component="a"
+                  variant="subtle"
+                  styles={(theme) => ({
+                    subtle: {
+                      color: "white",
+                      "&:hover": {
+                        color: theme.colors.indigo,
+                      },
+                    },
+                  })}
+                >
                   About Us
                 </Button>
               </Link>

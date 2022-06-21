@@ -18,7 +18,7 @@ function Home() {
   ];
 
   return (
-    <div style={{ width: "100vw" }}>
+    <div>
       <EraNavBar></EraNavBar>
       <Chrono
         items={items}
