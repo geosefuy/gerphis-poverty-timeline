@@ -9,7 +9,7 @@ export default function App(props) {
   return (
     <>
       <Head>
-        <title>Page title</title>
+        <title>Poverty in the Philippines</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
@@ -22,6 +22,7 @@ export default function App(props) {
         theme={{
           /** Put your mantine theme override here */
           colorScheme: "light",
+          primaryColor: "indigo"
         }}
       >
         <ApplicationContainer>

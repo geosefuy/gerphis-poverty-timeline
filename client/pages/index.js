@@ -26,6 +26,7 @@ function Home() {
         disableAutoScrollOnClick={true}
         hideControls={true}
         borderLessCards={true}
+        itemWidth={520}
       >
         {/* 900 */}
         <div>

@@ -6,16 +6,15 @@ export const ApplicationContainer = ({ children }) => {
     <AppShell
       styles={{
         main: {
-          background: "#FFFFFF",
           width: "100vw",
           paddingLeft: "0px",
           paddingTop: "70px",
-        },
+        }
       }}
       footer={
         <Footer height={60} p="md">
           <Text size="sm">
-            <span>© 2022 YourSite.com - All Rights Reserved.</span>
+            <span>© 2022 - All Rights Reserved.</span>
           </Text>
         </Footer>
       }
