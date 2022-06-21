@@ -24,7 +24,7 @@ export const ApplicationContainer = ({ children }) => {
           p="md"
           fixed
           sx={(theme) => ({
-            backgroundColor: theme.colors.indigo,
+            backgroundColor: theme.fn.darken(theme.colors.indigo[9], 0.2),
           })}
         >
           <Group position="apart" spacing="xl" noWrap>
