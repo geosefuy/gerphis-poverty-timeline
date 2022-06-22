@@ -30,16 +30,7 @@ function EraNavBar() {
           component="a"
           variant={router.pathname == "/american" ? "filled" : "outline"}
         >
-          American Era
-        </Button>
-      </Link>
-
-      <Link href="/japanese">
-        <Button
-          component="a"
-          variant={router.pathname == "/japanese" ? "filled" : "outline"}
-        >
-          Japanese Era
+          American Era &amp; Liberation
         </Button>
       </Link>
 

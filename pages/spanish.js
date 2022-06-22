@@ -1,4 +1,4 @@
-import { Accordion, Group, Image, Stack, Paper, Text } from "@mantine/core";
+import { Accordion, Group, Image, Stack, Paper, Text, Divider } from "@mantine/core";
 import { Chrono } from "react-chrono";
 import AccordionLabel from "../components/AccordionLabel";
 import EraNavBar from "../components/EraNavBar";
@@ -49,6 +49,7 @@ function Spanish() {
                     declared rule over the Philippines and Legazpi took control of the
                     government, several local government bodies tended to capitalize on
                     Filipinos, particularly on slavery, which was continued until the 18th century.</Text>
+                    <Divider></Divider>
                   <Text>Manila Galleon Trade</Text>
                   <Text>1565</Text>
                   <Text>The Manila-Acapulco galleon trade opened up so many opportunities for Filipinos to export their goods,
