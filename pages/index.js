@@ -42,7 +42,10 @@ function Home() {
       >
         {/* 900 */}
         <div>
-          <Group position="apart" noWrap mb={40}>
+          <Title ml={20} mb={20} order={1}>
+            Event Details
+          </Title>
+          <Group position="apart" noWrap mb={40} align="flex-start">
             <Image
               width={360}
               height={480}
