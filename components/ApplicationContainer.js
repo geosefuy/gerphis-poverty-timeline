@@ -64,6 +64,22 @@ export const ApplicationContainer = ({ children }) => {
                   About Us
                 </Button>
               </Link>
+              <Link href="/references">
+                <Button
+                  component="a"
+                  variant="subtle"
+                  styles={(theme) => ({
+                    subtle: {
+                      color: "white",
+                      "&:hover": {
+                        color: theme.colors.indigo,
+                      },
+                    },
+                  })}
+                >
+                  References
+                </Button>
+              </Link>
             </Group>
           </Group>
         </Header>
