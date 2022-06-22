@@ -10,7 +10,11 @@ function PracticeCard({ imageUrl, title, location, description }) {
     <div style={{ width: 340, margin: "auto" }}>
       <Card shadow="sm" p="lg">
         <Card.Section>
-          <Image src="./image.png" height={160} alt="Norway" />
+          <Image
+            src={imageUrl ? imageUrl : "https://via.placeholder.com/150"}
+            height={160}
+            alt="Norway"
+          />
         </Card.Section>
 
         <Group
@@ -18,13 +22,12 @@ function PracticeCard({ imageUrl, title, location, description }) {
           spacing="6"
           style={{ marginBottom: 5, marginTop: 20 }}
         >
-          <Text weight={500}>Infanticide</Text>
-          <Text weight={500}>Pangasinan and Visayas</Text>
+          <Text weight={500}> {title} </Text>
+          <Text weight={500}> {location} </Text>
         </Group>
 
         <Text size="sm" style={{ color: secondaryColor, lineHeight: 1.5 }}>
-          With Fjord Tours you can explore more of the magical fjord landscapes
-          with tours and activities on and around the fjords of Norway
+          {description}
         </Text>
 
         {/* <Button
