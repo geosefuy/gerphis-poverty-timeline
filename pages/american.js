@@ -62,7 +62,7 @@ function American() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Continuous Feudal Relations" imageUrl="https://i.imgur.com/IzcGNw8.png" description={"The system that was established from the Spanish era has slowly leaked and merged with the systems that were being introduced by the Americans. It became apparent that the workers were not benefiting from the reform, and was mainly targeted towards the rich and educated, with being able to manipulate land ownership and abuse those under them."}></PracticeCard>
             <PracticeCard title="Public school and healthcare systems" imageUrl="https://i.imgur.com/fPxMwpx.jpg" description={"One of the more generally positive practices that were implemented during the American regime was the construction of public schools and hospitals to address the dire need of education and healthcare, especially to the masses. This served as a way for the working class to have an opportunity in obtaining those without spending much. Although there may be neocolonialism that occurs until today, the emergence of these establishments are very beneficial to the public."}></PracticeCard>
           </Group>
@@ -89,7 +89,7 @@ function American() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Continuous Feudal Relations" imageUrl="https://i.imgur.com/IzcGNw8.png" description={"The system that was established from the Spanish era has slowly leaked and merged with the systems that were being introduced by the Americans. It became apparent that the workers were not benefiting from the reform, and was mainly targeted towards the rich and educated, with being able to manipulate land ownership and abuse those under them."}></PracticeCard>
             <PracticeCard title="Public school and healthcare systems" imageUrl="https://i.imgur.com/fPxMwpx.jpg" description={"One of the more generally positive practices that were implemented during the American regime was the construction of public schools and hospitals to address the dire need of education and healthcare, especially to the masses. This served as a way for the working class to have an opportunity in obtaining those without spending much. Although there may be neocolonialism that occurs until today, the emergence of these establishments are very beneficial to the public."}></PracticeCard>
           </Group>
@@ -116,7 +116,7 @@ function American() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Continuous Feudal Relations" imageUrl="https://i.imgur.com/IzcGNw8.png" description={"The system that was established from the Spanish era has slowly leaked and merged with the systems that were being introduced by the Americans. It became apparent that the workers were not benefiting from the reform, and was mainly targeted towards the rich and educated, with being able to manipulate land ownership and abuse those under them."}></PracticeCard>
             <PracticeCard title="Public school and healthcare systems" imageUrl="https://i.imgur.com/fPxMwpx.jpg" description={"One of the more generally positive practices that were implemented during the American regime was the construction of public schools and hospitals to address the dire need of education and healthcare, especially to the masses. This served as a way for the working class to have an opportunity in obtaining those without spending much. Although there may be neocolonialism that occurs until today, the emergence of these establishments are very beneficial to the public."}></PracticeCard>
           </Group>
@@ -150,7 +150,7 @@ function American() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Continuous Feudal Relations" imageUrl="https://i.imgur.com/IzcGNw8.png" description={"The system that was established from the Spanish era has slowly leaked and merged with the systems that were being introduced by the Americans. It became apparent that the workers were not benefiting from the reform, and was mainly targeted towards the rich and educated, with being able to manipulate land ownership and abuse those under them."}></PracticeCard>
             <PracticeCard title="Public school and healthcare systems" imageUrl="https://i.imgur.com/fPxMwpx.jpg" description={"One of the more generally positive practices that were implemented during the American regime was the construction of public schools and hospitals to address the dire need of education and healthcare, especially to the masses. This served as a way for the working class to have an opportunity in obtaining those without spending much. Although there may be neocolonialism that occurs until today, the emergence of these establishments are very beneficial to the public."}></PracticeCard>
           </Group>
@@ -187,7 +187,7 @@ function American() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Continuous Feudal Relations" imageUrl="https://i.imgur.com/IzcGNw8.png" description={"The system that was established from the Spanish era has slowly leaked and merged with the systems that were being introduced by the Americans. It became apparent that the workers were not benefiting from the reform, and was mainly targeted towards the rich and educated, with being able to manipulate land ownership and abuse those under them."}></PracticeCard>
             <PracticeCard title="Public school and healthcare systems" imageUrl="https://i.imgur.com/fPxMwpx.jpg" description={"One of the more generally positive practices that were implemented during the American regime was the construction of public schools and hospitals to address the dire need of education and healthcare, especially to the masses. This served as a way for the working class to have an opportunity in obtaining those without spending much. Although there may be neocolonialism that occurs until today, the emergence of these establishments are very beneficial to the public."}></PracticeCard>
           </Group>
