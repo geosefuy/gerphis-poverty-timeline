@@ -1,21 +1,13 @@
 import {
-  Accordion,
   Group,
   Image,
   Stack,
   Paper,
   Text,
   Title,
-  Card,
-  Badge,
-  useMantineTheme,
-  Button,
-  Divider
 } from "@mantine/core";
 import { Chrono } from "react-chrono";
-import AccordionLabel from "../components/AccordionLabel";
 import EraNavBar from "../components/EraNavBar";
-import TimelineContent from "../components/TimelineContent";
 import PracticeCard from "../components/PracticeCard";
 
 function American() {

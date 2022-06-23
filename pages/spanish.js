@@ -5,17 +5,11 @@ import {
   Stack,
   Paper,
   Text,
-  Title,
-  Card,
-  Badge,
-  useMantineTheme,
-  Button,
-  Divider
+  Title
 } from "@mantine/core";
 import { Chrono } from "react-chrono";
 import AccordionLabel from "../components/AccordionLabel";
 import EraNavBar from "../components/EraNavBar";
-import TimelineContent from "../components/TimelineContent";
 import PracticeCard from "../components/PracticeCard";
 
 function Spanish() {
@@ -67,8 +61,8 @@ function Spanish() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon and Visayas' social_class='Nativos/Indios'></AccordionLabel>}>
@@ -107,8 +101,8 @@ function Spanish() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon and Visayas' social_class='Nativos/Indios'></AccordionLabel>}>
@@ -146,8 +140,8 @@ function Spanish() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon and Visayas' social_class='Nativos/Indios'></AccordionLabel>}>

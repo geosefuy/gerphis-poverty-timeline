@@ -88,8 +88,8 @@ function Contemporary() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon, Visayas, and Mindanao' social_class='Informal Settlers'></AccordionLabel>}>
@@ -100,7 +100,7 @@ function Contemporary() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
@@ -135,8 +135,8 @@ function Contemporary() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon, Visayas, and Mindanao' social_class='Informal Settlers'></AccordionLabel>}>
@@ -147,7 +147,7 @@ function Contemporary() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
@@ -181,8 +181,8 @@ function Contemporary() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon, Visayas, and Mindanao' social_class='Informal Settlers'></AccordionLabel>}>
@@ -193,7 +193,7 @@ function Contemporary() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
@@ -227,8 +227,8 @@ function Contemporary() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon, Visayas, and Mindanao' social_class='Informal Settlers'></AccordionLabel>}>
@@ -239,7 +239,7 @@ function Contemporary() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
@@ -272,8 +272,8 @@ function Contemporary() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon, Visayas, and Mindanao' social_class='Informal Settlers'></AccordionLabel>}>
@@ -284,7 +284,7 @@ function Contemporary() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
@@ -317,8 +317,8 @@ function Contemporary() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon, Visayas, and Mindanao' social_class='Informal Settlers'></AccordionLabel>}>
@@ -329,7 +329,7 @@ function Contemporary() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
@@ -362,8 +362,8 @@ function Contemporary() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon, Visayas, and Mindanao' social_class='Informal Settlers'></AccordionLabel>}>
@@ -374,7 +374,7 @@ function Contemporary() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
@@ -407,8 +407,8 @@ function Contemporary() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon, Visayas, and Mindanao' social_class='Informal Settlers'></AccordionLabel>}>
@@ -419,7 +419,7 @@ function Contemporary() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
@@ -452,8 +452,8 @@ function Contemporary() {
           </Group>
           <Accordion
             styles={{
-              item: { width: "700px" },
-              itemOpened: { width: "700px" },
+              item: { width: "1080px" },
+              itemOpened: { width: "1080px" },
             }}
           >
             <Accordion.Item label={<AccordionLabel location='Luzon, Visayas, and Mindanao' social_class='Informal Settlers'></AccordionLabel>}>
@@ -464,7 +464,7 @@ function Contemporary() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 

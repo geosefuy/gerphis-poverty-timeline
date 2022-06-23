@@ -1,15 +1,7 @@
 import {
   Accordion,
   Group,
-  Image,
-  Stack,
-  Paper,
-  Text,
   Title,
-  Card,
-  Badge,
-  useMantineTheme,
-  Button,
 } from "@mantine/core";
 import { Chrono } from "react-chrono";
 import AccordionLabel from "../components/AccordionLabel";
