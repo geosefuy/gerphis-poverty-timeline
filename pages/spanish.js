@@ -34,6 +34,7 @@ function Spanish() {
         disableAutoScrollOnClick={true}
         hideControls={true}
         borderLessCards={true}
+        itemWidth={500}
       >
         {/* 1565 */}
         <div>

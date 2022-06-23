@@ -38,6 +38,7 @@ function American() {
         disableAutoScrollOnClick={true}
         hideControls={true}
         borderLessCards={true}
+        itemWidth={400}
       >
         {/* 1909 */}
         <div>
