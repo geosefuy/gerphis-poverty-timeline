@@ -66,7 +66,7 @@ function Contemporary() {
               width={360}
               height={480}
               fit="contain"
-              src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+              src="https://i.imgur.com/WnlhTXw.jpg"
             ></Image>
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
@@ -101,15 +101,15 @@ function Contemporary() {
             Practices
           </Title>
           <Group style={{ maxWidth: "1080px" }}>
-            <PracticeCard title="Mendicancy / Begging" description="A common practice in the Philippines is mendicancy or begging for food or money. 
+            <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
             they can get some spare change. Some families even use their infants and toddlers to coerce other people into getting money. Although a Mendicancy Law was enforced in 1978, 
             this practice is still rampant in the various slums areas and are not being monitored at all by the local government units. Beggars simply go on with their daily lives 
             and aim to gather more money because there is currently no possibility at all of rising from their status any longer."></PracticeCard>
-            <PracticeCard title="Street Children" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
-            <PracticeCard title="Human Trafficking" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
-            <PracticeCard title="Organ Selling" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
+            <PracticeCard title="Street Children" imageUrl="https://i.imgur.com/WG5bHxV.jpg" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
+            <PracticeCard title="Human Trafficking" imageUrl="https://i.imgur.com/MOohVSH.jpg" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
+            <PracticeCard title="Organ Selling" imageUrl="https://i.imgur.com/1QOTMAK.jpg" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
           </Group>
         </div>
         {/* 1957 */}
@@ -119,7 +119,7 @@ function Contemporary() {
               width={360}
               height={480}
               fit="contain"
-              src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+              src="https://i.imgur.com/lWaHezC.jpg"
             ></Image>
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
@@ -148,15 +148,15 @@ function Contemporary() {
             Practices
           </Title>
           <Group style={{ maxWidth: "1080px" }}>
-            <PracticeCard title="Mendicancy / Begging" description="A common practice in the Philippines is mendicancy or begging for food or money. 
+            <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
             they can get some spare change. Some families even use their infants and toddlers to coerce other people into getting money. Although a Mendicancy Law was enforced in 1978, 
             this practice is still rampant in the various slums areas and are not being monitored at all by the local government units. Beggars simply go on with their daily lives 
             and aim to gather more money because there is currently no possibility at all of rising from their status any longer."></PracticeCard>
-            <PracticeCard title="Street Children" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
-            <PracticeCard title="Human Trafficking" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
-            <PracticeCard title="Organ Selling" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
+            <PracticeCard title="Street Children" imageUrl="https://i.imgur.com/WG5bHxV.jpg" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
+            <PracticeCard title="Human Trafficking" imageUrl="https://i.imgur.com/MOohVSH.jpg" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
+            <PracticeCard title="Organ Selling" imageUrl="https://i.imgur.com/1QOTMAK.jpg" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
           </Group>
         </div>
         {/* 1963 */}
@@ -166,7 +166,7 @@ function Contemporary() {
               width={360}
               height={480}
               fit="contain"
-              src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+              src="https://i.imgur.com/6GXwOoF.jpg"
             ></Image>
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
@@ -194,15 +194,15 @@ function Contemporary() {
             Practices
           </Title>
           <Group style={{ maxWidth: "1080px" }}>
-            <PracticeCard title="Mendicancy / Begging" description="A common practice in the Philippines is mendicancy or begging for food or money. 
+            <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
             they can get some spare change. Some families even use their infants and toddlers to coerce other people into getting money. Although a Mendicancy Law was enforced in 1978, 
             this practice is still rampant in the various slums areas and are not being monitored at all by the local government units. Beggars simply go on with their daily lives 
             and aim to gather more money because there is currently no possibility at all of rising from their status any longer."></PracticeCard>
-            <PracticeCard title="Street Children" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
-            <PracticeCard title="Human Trafficking" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
-            <PracticeCard title="Organ Selling" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
+            <PracticeCard title="Street Children" imageUrl="https://i.imgur.com/WG5bHxV.jpg" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
+            <PracticeCard title="Human Trafficking" imageUrl="https://i.imgur.com/MOohVSH.jpg" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
+            <PracticeCard title="Organ Selling" imageUrl="https://i.imgur.com/1QOTMAK.jpg" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
           </Group>
         </div>
         {/* 1969 */}
@@ -212,7 +212,7 @@ function Contemporary() {
               width={360}
               height={480}
               fit="contain"
-              src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+              src="https://i.imgur.com/n9UyxlG.jpg"
             ></Image>
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
@@ -240,15 +240,15 @@ function Contemporary() {
             Practices
           </Title>
           <Group style={{ maxWidth: "1080px" }}>
-            <PracticeCard title="Mendicancy / Begging" description="A common practice in the Philippines is mendicancy or begging for food or money. 
+            <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
             they can get some spare change. Some families even use their infants and toddlers to coerce other people into getting money. Although a Mendicancy Law was enforced in 1978, 
             this practice is still rampant in the various slums areas and are not being monitored at all by the local government units. Beggars simply go on with their daily lives 
             and aim to gather more money because there is currently no possibility at all of rising from their status any longer."></PracticeCard>
-            <PracticeCard title="Street Children" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
-            <PracticeCard title="Human Trafficking" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
-            <PracticeCard title="Organ Selling" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
+            <PracticeCard title="Street Children" imageUrl="https://i.imgur.com/WG5bHxV.jpg" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
+            <PracticeCard title="Human Trafficking" imageUrl="https://i.imgur.com/MOohVSH.jpg" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
+            <PracticeCard title="Organ Selling" imageUrl="https://i.imgur.com/1QOTMAK.jpg" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
           </Group>
         </div>
         {/* 1972-1986 */}
@@ -258,7 +258,7 @@ function Contemporary() {
               width={360}
               height={480}
               fit="contain"
-              src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+              src="https://i.imgur.com/7waZ8mO.jpg"
             ></Image>
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
@@ -285,15 +285,15 @@ function Contemporary() {
             Practices
           </Title>
           <Group style={{ maxWidth: "1080px" }}>
-            <PracticeCard title="Mendicancy / Begging" description="A common practice in the Philippines is mendicancy or begging for food or money. 
+            <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
             they can get some spare change. Some families even use their infants and toddlers to coerce other people into getting money. Although a Mendicancy Law was enforced in 1978, 
             this practice is still rampant in the various slums areas and are not being monitored at all by the local government units. Beggars simply go on with their daily lives 
             and aim to gather more money because there is currently no possibility at all of rising from their status any longer."></PracticeCard>
-            <PracticeCard title="Street Children" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
-            <PracticeCard title="Human Trafficking" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
-            <PracticeCard title="Organ Selling" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
+            <PracticeCard title="Street Children" imageUrl="https://i.imgur.com/WG5bHxV.jpg" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
+            <PracticeCard title="Human Trafficking" imageUrl="https://i.imgur.com/MOohVSH.jpg" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
+            <PracticeCard title="Organ Selling" imageUrl="https://i.imgur.com/1QOTMAK.jpg" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
           </Group>
         </div>
         {/* 1997 */}
@@ -303,7 +303,7 @@ function Contemporary() {
               width={360}
               height={480}
               fit="contain"
-              src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+              src="https://i.imgur.com/4ZIB8PR.gif"
             ></Image>
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
@@ -330,15 +330,15 @@ function Contemporary() {
             Practices
           </Title>
           <Group style={{ maxWidth: "1080px" }}>
-            <PracticeCard title="Mendicancy / Begging" description="A common practice in the Philippines is mendicancy or begging for food or money. 
+            <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
             they can get some spare change. Some families even use their infants and toddlers to coerce other people into getting money. Although a Mendicancy Law was enforced in 1978, 
             this practice is still rampant in the various slums areas and are not being monitored at all by the local government units. Beggars simply go on with their daily lives 
             and aim to gather more money because there is currently no possibility at all of rising from their status any longer."></PracticeCard>
-            <PracticeCard title="Street Children" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
-            <PracticeCard title="Human Trafficking" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
-            <PracticeCard title="Organ Selling" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
+            <PracticeCard title="Street Children" imageUrl="https://i.imgur.com/WG5bHxV.jpg" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
+            <PracticeCard title="Human Trafficking" imageUrl="https://i.imgur.com/MOohVSH.jpg" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
+            <PracticeCard title="Organ Selling" imageUrl="https://i.imgur.com/1QOTMAK.jpg" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
           </Group>
         </div>
         {/* 2009 */}
@@ -348,14 +348,14 @@ function Contemporary() {
               width={360}
               height={480}
               fit="contain"
-              src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+              src="https://i.imgur.com/yzRQ1ZZ.jpg"
             ></Image>
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
                 <Stack>
                   <Text>Typhoon Ondoy in Luzon</Text>
                   <Text>2009</Text>
-                  <Text>Tropical Storm Ondoy or Typhoon Ketsana caused $1.15 billion in damages and 921 fatalities. It brought  widespread flash flooding in Metro Manila and on the afternoon of September 26, Gilbert Teodoro declared an overall state of calamity and the nearby 25 provinces in Luzon hit by the typhoon, allowing officials to utilize emergency funds for relief and rescue. </Text>
+                  <Text>Tropical Storm Ondoy or Typhoon Ketsana caused ₱11 billion in damages and 464 fatalities. It brought  widespread flash flooding in Metro Manila and on the afternoon of September 26, Gilbert Teodoro declared an overall state of calamity and the nearby 25 provinces in Luzon hit by the typhoon, allowing officials to utilize emergency funds for relief and rescue.  </Text>
                 </Stack>
               </Group>
             </Paper>
@@ -375,15 +375,15 @@ function Contemporary() {
             Practices
           </Title>
           <Group style={{ maxWidth: "1080px" }}>
-            <PracticeCard title="Mendicancy / Begging" description="A common practice in the Philippines is mendicancy or begging for food or money. 
+            <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
             they can get some spare change. Some families even use their infants and toddlers to coerce other people into getting money. Although a Mendicancy Law was enforced in 1978, 
             this practice is still rampant in the various slums areas and are not being monitored at all by the local government units. Beggars simply go on with their daily lives 
             and aim to gather more money because there is currently no possibility at all of rising from their status any longer."></PracticeCard>
-            <PracticeCard title="Street Children" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
-            <PracticeCard title="Human Trafficking" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
-            <PracticeCard title="Organ Selling" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
+            <PracticeCard title="Street Children" imageUrl="https://i.imgur.com/WG5bHxV.jpg" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
+            <PracticeCard title="Human Trafficking" imageUrl="https://i.imgur.com/MOohVSH.jpg" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
+            <PracticeCard title="Organ Selling" imageUrl="https://i.imgur.com/1QOTMAK.jpg" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
           </Group>
         </div>
         {/* 2013 */}
@@ -393,14 +393,14 @@ function Contemporary() {
               width={360}
               height={480}
               fit="contain"
-              src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+              src="https://i.imgur.com/bnVcz3e.jpg"
             ></Image>
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
                 <Stack>
                   <Text>Typhoon Yolanda in Eastern and Central Visayas</Text>
                   <Text>2013</Text>
-                  <Text>The super typhoon affected Eastern Visayas or Region VIII. It was the 3rd poorest region in the Philippines as of 1st semester of 2012. It had a poverty incidence of 45.5 percent of the population. It led to long term vulnerability in the Region and other affected areas, causing poverty, marginalization, and conflict. 44 provinces were affected and more than 6000 people died. 1757 individuals are still missing and 26,136 families affected. It was reported that 1,168,958 destroyed and damaged houses. P15,620,130,890 worth of damage to infrastructure such as roads, bridges, irrigation, flood control, health and school facilities. In addition, there was P15,026,036,681 worth of damage to agriculture.</Text>
+                  <Text>The super typhoon affected Eastern Visayas or Region VIII. It was the 3rd poorest region in the Philippines as of 1st semester of 2012. It had a poverty incidence of 45.5 percent of the population. It led to long term vulnerability in the Region and other affected areas, causing poverty, marginalization, and conflict. 44 provinces were affected and around 6000 people died. It was reported that over 1 million houses were destroyed and damaged, amounting to ₱18 billion worth of damage to infrastructure such as roads, bridges, irrigation, flood control, health and school facilities. In addition, there was also ₱17 billion worth of damage to agriculture.</Text>
                 </Stack>
               </Group>
             </Paper>
@@ -420,15 +420,15 @@ function Contemporary() {
             Practices
           </Title>
           <Group style={{ maxWidth: "1080px" }}>
-            <PracticeCard title="Mendicancy / Begging" description="A common practice in the Philippines is mendicancy or begging for food or money. 
+            <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
             they can get some spare change. Some families even use their infants and toddlers to coerce other people into getting money. Although a Mendicancy Law was enforced in 1978, 
             this practice is still rampant in the various slums areas and are not being monitored at all by the local government units. Beggars simply go on with their daily lives 
             and aim to gather more money because there is currently no possibility at all of rising from their status any longer."></PracticeCard>
-            <PracticeCard title="Street Children" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
-            <PracticeCard title="Human Trafficking" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
-            <PracticeCard title="Organ Selling" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
+            <PracticeCard title="Street Children" imageUrl="https://i.imgur.com/WG5bHxV.jpg" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
+            <PracticeCard title="Human Trafficking" imageUrl="https://i.imgur.com/MOohVSH.jpg" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
+            <PracticeCard title="Organ Selling" imageUrl="https://i.imgur.com/1QOTMAK.jpg" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
           </Group>
         </div>
         {/* 2020 */}
@@ -438,7 +438,7 @@ function Contemporary() {
               width={360}
               height={480}
               fit="contain"
-              src="https://images.unsplash.com/photo-1655386068492-1b252df3791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+              src="https://i.imgur.com/ozquOtX.jpg"
             ></Image>
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
@@ -465,15 +465,15 @@ function Contemporary() {
             Practices
           </Title>
           <Group style={{ maxWidth: "1080px" }}>
-            <PracticeCard title="Mendicancy / Begging" description="A common practice in the Philippines is mendicancy or begging for food or money. 
+            <PracticeCard title="Mendicancy / Begging" imageUrl="https://i.imgur.com/fwm6yBO.jpg" description="A common practice in the Philippines is mendicancy or begging for food or money. 
             This commonly occurs in busy areas and streets where they are usually located at the sides waiting for incoming pedestrians to hopefully give them money. 
             Some beggars take it a step further in busy streets, wherein they would forcefully clean the windshield of cars in standby and look at the driver hoping that 
             they can get some spare change. Some families even use their infants and toddlers to coerce other people into getting money. Although a Mendicancy Law was enforced in 1978, 
             this practice is still rampant in the various slums areas and are not being monitored at all by the local government units. Beggars simply go on with their daily lives 
             and aim to gather more money because there is currently no possibility at all of rising from their status any longer."></PracticeCard>
-            <PracticeCard title="Street Children" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
-            <PracticeCard title="Human Trafficking" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
-            <PracticeCard title="Organ Selling" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
+            <PracticeCard title="Street Children" imageUrl="https://i.imgur.com/WG5bHxV.jpg" description={"Because of poverty in the Philippines, children from these families have resorted to live along the streets and are deprived of the proper education and healthcare simply because their family cannot afford it. These children instead become parts of syndicates and gangs that create coordinated attempts of robbery and theft along the streets, and even go so far to murder just to be able to sustain themselves and their families."}></PracticeCard>
+            <PracticeCard title="Human Trafficking" imageUrl="https://i.imgur.com/MOohVSH.jpg" description={"Exploitation of the poor continues with human trafficking, where they are coerced to conduct illegal activities against their will because of their financial instability. They are forced to conduct these activities because it serves as their only way to earn money fast. Some activities involve forced labor, and prostitution, which despite being illegal in the Philippines, is an industry that is being checked out by poor Filipinos because of the possible outlook that it can bring. "}></PracticeCard>
+            <PracticeCard title="Organ Selling" imageUrl="https://i.imgur.com/1QOTMAK.jpg" description={"Organ selling is considered illegal in the Philippines. Despite these restrictions, there are underground markets for selling different organs at various prices. Poverty can make Filipinos reach a point where they must sell a part of their body just to make ends meet. A case is seen in social media that shows many Filipinos willing to donate their kidneys to earn more money, usually for significantly large bills and payments needed such as hospital bills and debts."}></PracticeCard>
           </Group>
         </div>
       </Chrono>
