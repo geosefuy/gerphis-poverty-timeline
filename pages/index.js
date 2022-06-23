@@ -123,7 +123,7 @@ function Home() {
           <Title ml={20} my={20} order={1}>
             Practices
           </Title>
-          <Group style={{ maxWidth: "1080px" }}>
+          <Group align="flex-start" style={{ maxWidth: "1080px" }}>
             <PracticeCard title="Infanticide" location ="Pangasinan and Visayas" description={"In cases of poverty, the parents may choose to kill the newborn to ensure that the community does not further reduce their already scarce resources. The most common method was to bury the newborn alive or alongside the riverbank. "}></PracticeCard>
             <PracticeCard title="Kabalangay / Horohan" location = "Visayas" description={"The Horohan in Visayas can be taken under the wing of the datu, specializing in lower-echelon military services, either as oarsmen for boats (mangayaw) or warriors (magahat). They can also present themselves as a Kabalangay or a crewman for maintaining their boat."}></PracticeCard>
             <PracticeCard title="Adoption" location = "Philippines" description={"Poverty through the economy and natural disasters can also drive parents to send their children for adoption. The precolonial period dealt with this through informal agreements with relatives or other families willing to take them in. It could also take a formal process (ngamáy) which ensures their care and safety."}></PracticeCard>

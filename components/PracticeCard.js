@@ -1,4 +1,12 @@
-import { Card, Group, Image, Text, useMantineTheme } from "@mantine/core";
+import {
+  Card,
+  Group,
+  Image,
+  Text,
+  useMantineTheme,
+} from "@mantine/core";
+
+import { MapPin } from "tabler-icons-react";
 
 function PracticeCard({ imageUrl, title, location, description }) {
   const theme = useMantineTheme();
@@ -7,13 +15,14 @@ function PracticeCard({ imageUrl, title, location, description }) {
     theme.colorScheme === "dark" ? theme.colors.dark[1] : theme.colors.gray[7];
 
   return (
-    <div style={{height: 700, width: 340, margin: "auto" }}>
+    <div style={{ width: 340, margin: "auto, 0" }}>
       <Card shadow="sm" p="lg">
         <Card.Section>
           <Image
-            src={imageUrl ? imageUrl : "https://via.placeholder.com/150"}
+            src={imageUrl}
             height={160}
-            alt="Norway"
+            alt="PracticeImage"
+            withPlaceholder
           />
         </Card.Section>
 
@@ -22,8 +31,12 @@ function PracticeCard({ imageUrl, title, location, description }) {
           spacing="6"
           style={{ marginBottom: 5, marginTop: 20 }}
         >
-          <Text weight={500}> {title} </Text>
-          <Text weight={500}> {location} </Text>
+          <Group spacing={4}>
+              <MapPin></MapPin>
+            <Text color="dimmed"> {location} </Text>
+          </Group>
+
+          <Text size="xl" weight={700}> {title} </Text>
         </Group>
 
         <Text size="sm" style={{ color: secondaryColor, lineHeight: 1.5 }}>
