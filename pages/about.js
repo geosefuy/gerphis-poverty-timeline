@@ -73,9 +73,9 @@ export default function About() {
       description: "BS Computer Science",
     },
     {
-      imageUrl: "",
+      imageUrl: "https://i.imgur.com/GeaAD5J.jpg",
       name: "Estipona, Shaira C.",
-      description: "BS Computer Science",
+      description: "BS Civil Engineering",
     },
     {
       imageUrl: "https://i.imgur.com/B2QNYNU.jpg",
@@ -83,9 +83,9 @@ export default function About() {
       description: "BS Computer Science",
     },
     {
-      imageUrl: "",
+      imageUrl: "https://i.imgur.com/2FChcQ0.jpg",
       name: "Shu Too, Kevin L.",
-      description: "BS Computer Science",
+      description: "BS Interactive Entertainment Technology",
     },
     {
       imageUrl: "https://i.imgur.com/Cyt3moB.png",
@@ -107,7 +107,7 @@ export default function About() {
       <Container size="sm" className="about" my={20}>
         <Title align="center">Meet the Team</Title>
         <p>
-          This website was made in partial requirement of the course GERPHIS.
+          This website was made in partial requirement for the course GERPHIS.
           The content of this website is about the poverty situation in the
           Philippines during various eras and its related issues. Disclaimer: We
           do not own any of the images and information, sources can be found in
