@@ -1,8 +1,22 @@
-import { Accordion, Group, Image, Stack, Paper, Text, Divider } from "@mantine/core";
+import {
+  Accordion,
+  Group,
+  Image,
+  Stack,
+  Paper,
+  Text,
+  Title,
+  Card,
+  Badge,
+  useMantineTheme,
+  Button,
+  Divider
+} from "@mantine/core";
 import { Chrono } from "react-chrono";
 import AccordionLabel from "../components/AccordionLabel";
 import EraNavBar from "../components/EraNavBar";
 import TimelineContent from "../components/TimelineContent";
+import PracticeCard from "../components/PracticeCard";
 
 function Spanish() {
   const items = [
@@ -70,6 +84,13 @@ function Spanish() {
               These natives are often exploited for land and resources, which allows the Spaniards to stay in power while Filipinos slowly lose all their properties and rights.
             </Accordion.Item>
           </Accordion>
+          <Title ml={20} my={20} order={1}>
+            Practices
+          </Title>
+          <Group style={{ maxWidth: "1080px" }}>
+            <PracticeCard title="Encomienda system" description={"King Philip II enacted the law on June 11 1594 to introduce the encomienda system, wherein the nobles (principalía) were given land grants in favor of local farmers as a virtue of successful conquest of the areas. This resulted in the farmers and workers to be under the noble classes, and be very vulnerable to exploitation, mainly on tribute payments and endless demands from encomenderos."}></PracticeCard>
+            <PracticeCard title="Polo y servicio" description={"This was created by the Spanish colonists to use the natives for public and private infrastructure projects. During this service, all males of ages 16 to 60 years old shall be forced to work in physical labor and construction for 40 days. Initially, all males shall be rewarded with 22.5 real once their service has been completed, but records show how the workers were constantly exploited, an example is the Sumuroy Revolt, where orders from the government were not followed and abused by local authorities. This went on for 250 years from 1648 to 1898 until it was put to a stop by revolts."}></PracticeCard>
+          </Group>
         </div>
         {/* 1594 */}
         <div>
@@ -103,6 +124,13 @@ function Spanish() {
               These natives are often exploited for land and resources, which allows the Spaniards to stay in power while Filipinos slowly lose all their properties and rights.
             </Accordion.Item>
           </Accordion>
+          <Title ml={20} my={20} order={1}>
+            Practices
+          </Title>
+          <Group style={{ maxWidth: "1080px" }}>
+            <PracticeCard title="Encomienda system" description={"King Philip II enacted the law on June 11 1594 to introduce the encomienda system, wherein the nobles (principalía) were given land grants in favor of local farmers as a virtue of successful conquest of the areas. This resulted in the farmers and workers to be under the noble classes, and be very vulnerable to exploitation, mainly on tribute payments and endless demands from encomenderos."}></PracticeCard>
+            <PracticeCard title="Polo y servicio" description={"This was created by the Spanish colonists to use the natives for public and private infrastructure projects. During this service, all males of ages 16 to 60 years old shall be forced to work in physical labor and construction for 40 days. Initially, all males shall be rewarded with 22.5 real once their service has been completed, but records show how the workers were constantly exploited, an example is the Sumuroy Revolt, where orders from the government were not followed and abused by local authorities. This went on for 250 years from 1648 to 1898 until it was put to a stop by revolts."}></PracticeCard>
+          </Group>
         </div>
         {/* 1648 */}
         <div>
@@ -136,6 +164,13 @@ function Spanish() {
               These natives are often exploited for land and resources, which allows the Spaniards to stay in power while Filipinos slowly lose all their properties and rights.
             </Accordion.Item>
           </Accordion>
+          <Title ml={20} my={20} order={1}>
+            Practices
+          </Title>
+          <Group style={{ maxWidth: "1080px" }}>
+            <PracticeCard title="Encomienda system" description={"King Philip II enacted the law on June 11 1594 to introduce the encomienda system, wherein the nobles (principalía) were given land grants in favor of local farmers as a virtue of successful conquest of the areas. This resulted in the farmers and workers to be under the noble classes, and be very vulnerable to exploitation, mainly on tribute payments and endless demands from encomenderos."}></PracticeCard>
+            <PracticeCard title="Polo y servicio" description={"This was created by the Spanish colonists to use the natives for public and private infrastructure projects. During this service, all males of ages 16 to 60 years old shall be forced to work in physical labor and construction for 40 days. Initially, all males shall be rewarded with 22.5 real once their service has been completed, but records show how the workers were constantly exploited, an example is the Sumuroy Revolt, where orders from the government were not followed and abused by local authorities. This went on for 250 years from 1648 to 1898 until it was put to a stop by revolts."}></PracticeCard>
+          </Group>
         </div>
         {/* 1898 */}
         <div>
@@ -168,6 +203,13 @@ function Spanish() {
               These natives are often exploited for land and resources, which allows the Spaniards to stay in power while Filipinos slowly lose all their properties and rights.
             </Accordion.Item>
           </Accordion>
+          <Title ml={20} my={20} order={1}>
+            Practices
+          </Title>
+          <Group style={{ maxWidth: "1080px" }}>
+            <PracticeCard title="Encomienda system" description={"King Philip II enacted the law on June 11 1594 to introduce the encomienda system, wherein the nobles (principalía) were given land grants in favor of local farmers as a virtue of successful conquest of the areas. This resulted in the farmers and workers to be under the noble classes, and be very vulnerable to exploitation, mainly on tribute payments and endless demands from encomenderos."}></PracticeCard>
+            <PracticeCard title="Polo y servicio" description={"This was created by the Spanish colonists to use the natives for public and private infrastructure projects. During this service, all males of ages 16 to 60 years old shall be forced to work in physical labor and construction for 40 days. Initially, all males shall be rewarded with 22.5 real once their service has been completed, but records show how the workers were constantly exploited, an example is the Sumuroy Revolt, where orders from the government were not followed and abused by local authorities. This went on for 250 years from 1648 to 1898 until it was put to a stop by revolts."}></PracticeCard>
+          </Group>
         </div>
       </Chrono>
     </div>
