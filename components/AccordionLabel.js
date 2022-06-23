@@ -1,13 +1,14 @@
-import { Text } from "@mantine/core";
+import { Group, Text } from "@mantine/core";
+import { MapPin } from "tabler-icons-react";
 
-function AccordionLabel({ location, description,social_class }) {
+function AccordionLabel({ location,  social_class }) {
   return (
     <div>
-      <Text>{location}</Text>
-      <Text>{social_class}</Text>
-      <Text size="sm" color="dimmed" weight={400}>
-        {description}
-      </Text>
+      <Group spacing={4}>
+        <MapPin size="16"></MapPin>
+        <Text color="dimmed"> {location} </Text>
+      </Group>
+      <Text weight={500} size="lg">{social_class}</Text>
     </div>
   );
 }
