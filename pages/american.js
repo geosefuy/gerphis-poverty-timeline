@@ -52,8 +52,8 @@ function American() {
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
                 <Stack>
-                  <Text>Payne-Aldrich Act</Text>
-                  <Text>1909</Text>
+                  <Text weight={700} size="xl">Payne-Aldrich Act</Text>
+                  <Text color="dimmed">1909</Text>
                   <Text>The first motion towards the Free Trade Policy comes from this act, wherein the US provided free entry of various products and goods except rice, sugar, and tobacco. This allowed Filipinos the opportunity to become dependent on the American market, which puts them under control. This also allows them to manipulate the domestic market in any way they can, and lower class workers do not necessarily have the abilities to protect themselves against abuse from the Americans.</Text>
 
                 </Stack>
@@ -80,8 +80,8 @@ function American() {
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
                 <Stack>
-                  <Text>Underwood Simmons Tariff Act</Text>
-                  <Text>1913</Text>
+                  <Text weight={700} size="xl">Underwood Simmons Tariff Act</Text>
+                  <Text color="dimmed">1913</Text>
                   <Text>The Underwood-Simmons Tariff Act further cemented the American market onto the Philippines, allowing total free trade compared to the partial version offered by the Payne-Aldrich Act. Potential investments towards the Philippine industry basically vanished because of this. Less employment opportunities, less possibilities of Philippine businesses, only led to poverty especially to the working class.</Text>
                 </Stack>
               </Group>
@@ -107,8 +107,8 @@ function American() {
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
                 <Stack>
-                  <Text>Confiscation of Assets from Japanese</Text>
-                  <Text>1941</Text>
+                  <Text weight={700} size="xl">Confiscation of Assets from Japanese</Text>
+                  <Text color="dimmed">1941</Text>
                   <Text>One of the very first acts committed by the Japanese occupation army was to confiscate enemy assets, including that of Americans and Filipinos. Investments for various establishments and industries including agriculture, mining, and commerce were taken by the occupying power. The sudden confiscation of goods and money resulted in the disruption of the Philippine economy, and it also negatively impacted the output of said industries. The supplies of goods and services, as well as their availability, decreased before they eventually stabilized.</Text>
                 </Stack>
               </Group>
@@ -134,8 +134,8 @@ function American() {
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
                 <Stack>
-                  <Text>Food Supply Problem in Leyte</Text>
-                  <Text>1942-1944</Text>
+                  <Text weight={700} size="xl">Food Supply Problem in Leyte</Text>
+                  <Text color="dimmed">1942-1944</Text>
                   <Text>When the Japanese army invaded Manila, the food storage in Leyte was insufficient
                     to match the needs of the local population, Japanese forces, and American guerilla forces as agricultural
                     efficiency and output was already low beforehand. The National Rice and Corn Corporation (NARIC) and Neighborhood Association (NA)
@@ -168,8 +168,8 @@ function American() {
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
                 <Stack>
-                  <Text>Bell Trade Act</Text>
-                  <Text>1946</Text>
+                  <Text weight={700} size="xl">Bell Trade Act</Text>
+                  <Text color="dimmed">1946</Text>
                   <Text>The Bell Trade Act of 1946 or the Philippine Trade Act states the trade policies between the Philippines and the
                      United States after the Philippines' independence. Suffering from the devastating effects of the
                       war and the challenges of a falling economy, Manuel Roxas had no choice but to depend on the unfavorable 

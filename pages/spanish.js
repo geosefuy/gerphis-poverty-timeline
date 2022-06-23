@@ -49,8 +49,8 @@ function Spanish() {
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
                 <Stack>
-                  <Text>Conquest under Philip II</Text>
-                  <Text>1565</Text>
+                  <Text weight={700} size="xl">Conquest under Philip II</Text>
+                  <Text color="dimmed">1565</Text>
                   <Text>Miguel López de Legazpi was considered one of the successful circumnavigators that was
                     able to conquer Cebu despite the opposition of the Filipinos. Although King Philip II from Spain
                     declared rule over the Philippines and Legazpi took control of the
@@ -94,8 +94,8 @@ function Spanish() {
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
                 <Stack>
-                  <Text>Manila Galleon Trade</Text>
-                  <Text>1565</Text>
+                  <Text weight={700} size="xl">Manila Galleon Trade</Text>
+                  <Text color="dimmed">1565</Text>
                   <Text>The Manila-Acapulco galleon trade opened up so many opportunities for Filipinos to export their goods,
                     but at the same time brought upon the concept of capitalism which can further damage the livelihood of lower class workers.
                     This came with the encomienda system in which feudal landlordism was already the default system, making the trade system less effective.</Text>
@@ -137,8 +137,8 @@ function Spanish() {
             <Paper shadow="md" p="xl" m={20} style={{ width: "700px" }}>
               <Group position="apart" align="flex-start">
                 <Stack>
-                  <Text>Spanish-American War</Text>
-                  <Text>1898</Text>
+                  <Text weight={700} size="xl">Spanish-American War</Text>
+                  <Text color="dimmed">1898</Text>
                   <Text>The armed conflict between Spain and the United States has damaged the economy of the Philippines significantly, as well as becoming one of the grounds for their battle. This only led to the Treaty of Paris,
                      which put us instead under the rule of the US instead of Spain, which continues the discrimination and exploitation of our resources, shown in the next era.</Text>
                 </Stack>
