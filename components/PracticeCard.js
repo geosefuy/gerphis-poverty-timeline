@@ -7,7 +7,7 @@ function PracticeCard({ imageUrl, title, location, description }) {
     theme.colorScheme === "dark" ? theme.colors.dark[1] : theme.colors.gray[7];
 
   return (
-    <div style={{ width: 340, margin: "auto" }}>
+    <div style={{height: 700, width: 340, margin: "auto" }}>
       <Card shadow="sm" p="lg">
         <Card.Section>
           <Image
