@@ -227,7 +227,7 @@ function Contemporary() {
                 <Stack>
                   <Text>Asian Financial Crisis</Text>
                   <Text>1997</Text>
-                  <Text>DESCRIPTION</Text>
+                  <Text>The Asian Financial Crisis affected most of East and Southeast Asia, dropping the values of most currencies significantly and weakening our assets and exchange rates against other countries. This indirectly affected the working class as exporting goods was less beneficial to them, as well as the inflation of prices due to lower exchange rates. Furthermore, with the addition of the ‘jueteng’ scandal by Joseph “Erap” Estrada, the Philippine peso continued to decline, only regaining its value after his impeachment and repair.</Text>
                 </Stack>
               </Group>
             </Paper>
