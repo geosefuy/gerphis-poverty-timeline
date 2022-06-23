@@ -60,6 +60,9 @@ function Spanish() {
               </Group>
             </Paper>
           </Group>
+          <Title ml={20} my={20} order={1}>
+            Social Classes
+          </Title>
           <Accordion
             styles={{
               item: { width: "1080px" },
@@ -100,6 +103,9 @@ function Spanish() {
               </Group>
             </Paper>
           </Group>
+          <Title ml={20} my={20} order={1}>
+            Social Classes
+          </Title>
           <Accordion
             styles={{
               item: { width: "1080px" },
@@ -139,6 +145,9 @@ function Spanish() {
               </Group>
             </Paper>
           </Group>
+          <Title ml={20} my={20} order={1}>
+            Social Classes
+          </Title>
           <Accordion
             styles={{
               item: { width: "1080px" },
