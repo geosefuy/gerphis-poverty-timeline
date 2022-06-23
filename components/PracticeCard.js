@@ -1,10 +1,4 @@
-import {
-  Card,
-  Group,
-  Image,
-  Text,
-  useMantineTheme,
-} from "@mantine/core";
+import { Card, Group, Image, Text, useMantineTheme } from "@mantine/core";
 
 import { MapPin } from "tabler-icons-react";
 
@@ -31,12 +25,17 @@ function PracticeCard({ imageUrl, title, location, description }) {
           spacing="6"
           style={{ marginBottom: 5, marginTop: 20 }}
         >
-          <Group spacing={4}>
+          {location && (
+            <Group spacing={4}>
               <MapPin></MapPin>
-            <Text color="dimmed"> {location} </Text>
-          </Group>
+              <Text color="dimmed"> {location} </Text>
+            </Group>
+          )}
 
-          <Text size="xl" weight={700}> {title} </Text>
+          <Text size="xl" weight={700}>
+            {" "}
+            {title}{" "}
+          </Text>
         </Group>
 
         <Text size="sm" style={{ color: secondaryColor, lineHeight: 1.5 }}>
